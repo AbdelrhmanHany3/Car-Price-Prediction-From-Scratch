@@ -40,7 +40,7 @@ To simulate a real-world deployment, the champion model was tested on a single, 
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AbdelrhmanHany3/Car-Price-Prediction.git](https://github.com/AbdelrhmanHany3/Car-Price-Prediction.git)
+   git clone [https://github.com/AbdelrhmanHany3/Car-Price-Prediction-From-Scratch.git](https://github.com/AbdelrhmanHany3/Car-Price-Prediction-From-Scratch.git)
    ```
    Install the required dependencies:
    ```bash
