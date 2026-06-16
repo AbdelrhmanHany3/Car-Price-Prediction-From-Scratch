@@ -1,0 +1,17 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Saved Models / Weights
+*.pkl
+*.joblib
+*.h5
+
+# Python cache
+__pycache__/
+*.py[cod]
